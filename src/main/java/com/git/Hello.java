@@ -7,6 +7,8 @@ public class Hello {
 		System.out.println("right ");
 		System.out.println("left ");
 		
+		System.out.println("hot fix edit ....");
+		
 	}
 
 }
